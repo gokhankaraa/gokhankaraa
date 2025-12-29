@@ -1,12 +1,11 @@
-# Merhaba, ben Gökhan! 👋
+# Hi, I'm Gökhan! 👋
 
-Ben bir **Yazılım Mühendisliği 2. Sınıf Öğrencisiyim**. 🎓
-Temel mühendislik prensiplerini öğreniyor, özellikle **Java** ve **C++** dilleriyle algoritmik düşünme yeteneğimi geliştiriyorum. Okul projelerinin yanı sıra kendimi geliştirmek için açık kaynak dünyasını keşfediyorum.
-
+I am a **Software Engineering Student (2nd Year)**. 🎓
+I am currently learning fundamental engineering principles and enhancing my algorithmic thinking skills, focusing on **Java** and **C++**. Alongside my academic projects, I am exploring the open-source world to further improve my skills.
 
 ---
 
-### 🛠️ Teknoloji Çantam (Tech Stack)
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -22,9 +21,8 @@ Temel mühendislik prensiplerini öğreniyor, özellikle **Java** ve **C++** dil
 
 ---
 
-
-### 🔗 Benimle İletişime Geç
+### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/Gökhan Kara" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/g%C3%B6khan-kara-b42035286/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:emailadresin@mail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
