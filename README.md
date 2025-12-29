@@ -6,14 +6,14 @@ Ben [Şehir/Ülke]'de yaşayan bir **Yazılım Geliştiriciyim**.
 - 🔭 Şu anda **[Proje Adı]** üzerinde çalışıyorum.
 - 🌱 Şu anda **Design Patterns (Tasarım Kalıpları)** öğreniyorum.
 - 👯 **Java Spring Boot** veya **C++** projelerinde iş birliğine açığım.
-- 💬 Bana **Algoritmalar** ve **Veri Yapıları** hakkında soru sorabilirsin.
-- 📫 İletişim: **[E-posta Adresin]**
+
+
 
 ---
 
 ### 🛠️ Teknoloji Yığını (Tech Stack)
 
-Bu dillerde yetkin olduğun için "Algoritmalar" rozetini de ekledim, çok havalı durur:
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
