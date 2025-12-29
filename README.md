@@ -1,6 +1,6 @@
 # Hi, I'm Gökhan! 👋
 
-I am a **Software Engineering Student **. 🎓
+I am a Software Engineering Student . 🎓
 I am currently learning fundamental engineering principles and enhancing my algorithmic thinking skills, focusing on **Java** and **C++**. Alongside my academic projects, I am exploring the open-source world to further improve my skills.
 
 ---
