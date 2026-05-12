@@ -1,6 +1,4 @@
-# Hi, I'm Gökhan! 👋
-
-I am a Software Engineering Student . 🎓
+# I'm Gökhan Kara, a Software Engineering student at Çankaya University. My core focus is on full-stack development because I love learning how all the pieces of a software puzzle fit together. As an active learner, I don't just rely on university courses; I am constantly exploring new tools and frameworks across both backend (Java, Spring Boot) and frontend development. I consider myself a lifelong student of technology, always eager to write cleaner code, build better systems, and turn complex problems into elegant solutions
 
 
 ---
