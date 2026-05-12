@@ -20,7 +20,7 @@ I am a Software Engineering Student . 🎓
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Contact
 <p align="left">
 <a href="https://www.linkedin.com/in/g%C3%B6khan-kara-b42035286/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
