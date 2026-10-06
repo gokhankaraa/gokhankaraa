@@ -4,11 +4,12 @@ I am a Software Engineering student at Çankaya University with a strong focus o
 
 ---
 
-### 💼 Current Work & Experience
-* 💻 Currently working as a **Backend Development Intern** at **KolaySoft**.
-* 🏗️ Developing a **Weekly Project Status Report & CTO Tracking System** MVP.
-* 🌱 Deepening my knowledge in **Spring**, **Spring Boot**, and backend architectures.
-
+### 💼 Experience
+* 💻 **Backend Development Intern** @ **KolaySoft A.Ş ** *( july 2026)*
+  * 🏗️ Built an MVP for a **Weekly Project Status Report & CTO Tracking System**
+  * ⚙️ Worked with **Spring Boot**, REST APIs and backend architecture
+* 🌱 Currently deepening my knowledge in **Spring**, **Spring Boot**, and backend architectures
+  
 ---
 
 ### 🛠️ Tech Stack
