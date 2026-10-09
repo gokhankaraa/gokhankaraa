@@ -46,19 +46,17 @@ My personal website, with an AI assistant that answers visitors' questions about
 
 ## Experience
 
-**Backend Developer Intern** · Kolaysoft A.Ş. · *June 2026 – July 2026*
+**Backend Developer Intern** · Kolaysoft A.Ş. · *June 2026 – July 2026*  
 Built the backend of the CTO Project Tracker and delivered it as a working MVP within a task-based internship program.
 
 ## Tech stack
 
-| | |
-|---|---|
-| **Backend** | Spring Boot, Spring Data JPA (Hibernate), Spring Security, Bean Validation, Lombok |
-| **Testing** | JUnit, Mockito, MockMvc |
-| **Languages** | Java, Python, C++, C |
-| **Databases** | PostgreSQL, SQL |
-| **Frontend** | React, Next.js, TypeScript |
-| **Tools** | Git, Docker, Maven, Swagger / OpenAPI |
+- **Backend:** Spring Boot, Spring Data JPA (Hibernate), Spring Security, Bean Validation, Lombok
+- **Testing:** JUnit, Mockito, MockMvc
+- **Languages:** Java, Python, C++, C
+- **Databases:** PostgreSQL, SQL
+- **Frontend:** React, Next.js, TypeScript
+- **Tools:** Git, Docker, Maven, Swagger / OpenAPI
 
 ## Education
 
