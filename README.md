@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gökhan Kara
 
-I am a Software Engineering student at Çankaya University with a strong focus on backend development. I am passionate about building the robust architectures and logical foundations that power complex software applications. As an active learner, I don't just rely on university courses; I am constantly deepening my knowledge of object-oriented programming and exploring powerful server-side frameworks like Spring Boot. I consider myself a lifelong student of technology, always eager to keep learning, optimize system performance, and turn complex problems into elegant solutions.
+I'm a Software Engineering student at Çankaya University. I build scalable backend applications with Java and Spring Boot and am learning AI technologies.
 
 ---
 
